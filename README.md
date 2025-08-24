@@ -1,6 +1,43 @@
 # Airbnb Clone Project
-# Technology Stack
 
+# Team Roles
+
+## 1. Project Manager
+**Responsibilities:** Oversees project planning, coordinates team efforts, manages timelines and resources, communicates with stakeholders, and ensures project goals are met. Serves as the main point of contact for the project and facilitates agile development processes.
+
+## 2. Backend Developer
+**Responsibilities:** Designs and implements server-side logic using Django and Django REST Framework, develops RESTful and GraphQL APIs, integrates with PostgreSQL database, implements authentication and authorization systems, and ensures backend performance and scalability.
+
+## 3. Frontend Developer
+**Responsibilities:** Builds user interfaces using React and Next.js, implements responsive designs, manages state and client-side routing, integrates with backend APIs, and ensures optimal user experience across different devices and browsers.
+
+## 4. Database Administrator (DBA)
+**Responsibilities:** Designs and maintains the PostgreSQL database schema, optimizes database performance, ensures data integrity and security, implements backup and recovery strategies, and manages database migrations and indexing.
+
+## 5. DevOps Engineer
+**Responsibilities:** Sets up and maintains CI/CD pipelines using GitHub Actions, manages Docker containerization, configures AWS infrastructure, implements monitoring and logging solutions, and ensures system reliability and scalability.
+
+## 6. Quality Assurance (QA) Engineer
+**Responsibilities:** Develops and executes test plans, performs manual and automated testing, identifies and reports bugs, ensures code quality standards, and validates that features meet requirements before deployment.
+
+## 7. UI/UX Designer
+**Responsibilities:** Creates user interface designs, develops wireframes and prototypes, ensures intuitive user experience, maintains design consistency, and collaborates with frontend developers to implement visual designs.
+
+## 8. Security Specialist
+**Responsibilities:** Implements security best practices, conducts security audits, identifies vulnerabilities, ensures compliance with data protection regulations, and manages authentication and encryption systems.
+
+## 9. Full Stack Developer
+**Responsibilities:** Works on both frontend and backend components, bridges gaps between different parts of the application, implements end-to-end features, and ensures seamless integration between client and server.
+
+## Team Collaboration
+All team members participate in:
+- **Daily stand-ups** to discuss progress and blockers
+- **Code reviews** to maintain code quality and share knowledge
+- **Sprint planning** and **retrospective meetings**
+- **Documentation** of their respective components
+- **Knowledge sharing** sessions to ensure team alignment
+  
+# Technology Stack
 ## Backend
 - **Django**: A high-level Python web framework for building robust and scalable RESTful APIs
 - **Django REST Framework**: A powerful toolkit for building Web APIs on top of Django
